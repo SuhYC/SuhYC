@@ -13,6 +13,7 @@
 - **C++ IOCP Server**
 - **C# Unity Client + async/await Tcp**
 - MSSQL SQLServer ODBC on C++
+- Redis on C++ (hiredis)
 - rapidJson <br/>
 [Github](https://github.com/SuhYC/RPGServer) <br/>
 [YoutubeLink](https://www.youtube.com/watch?v=9p8_nc-A0UU) <br/>
