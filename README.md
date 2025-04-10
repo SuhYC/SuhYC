@@ -29,6 +29,13 @@
 [Github](https://github.com/SuhYC/Violeta) <br/>
 [YoutubeLink](https://www.youtube.com/watch?v=EYDAL4GmfnE) <br/>
 
+## ETC.
+My Own Serialization Library : [Link](https://github.com/SuhYC/DIY/tree/main/SerializeLib/CppToCS) <br/>
+My Own RingBuffer : [Link](https://github.com/SuhYC/DIY/tree/main/RingBuffer) <br/>
+My Own HashMap : [Link](https://github.com/SuhYC/DIY/tree/main/UnorderedMap) <br/>
+
+Study Notes : [Link](https://github.com/SuhYC/Lesson)
+
 <!--
 **SuhYC/SuhYC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
