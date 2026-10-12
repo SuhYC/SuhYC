@@ -2,6 +2,12 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=psyc)](https://solved.ac/psyc)
 
+## About Me
+Game Server Programmer focused on:
+- High Performance Server Systems
+- Concurrency and memory management
+- Runtime behavior analysis and debugging
+
 ## Education
 
 - **University of Seoul (UOS)**  
